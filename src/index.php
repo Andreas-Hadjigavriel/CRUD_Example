@@ -27,11 +27,11 @@
 		<?php include("errors.php"); ?>
 
 		<div class="input-group">
-			<label>Username</label>
+			<label class="lbl">Username</label>
 			<input type="text" placeholder="username" name="username" >
 		</div>
 		<div class="input-group">
-			<label>Password</label>
+			<label class="lbl">Password</label>
 			<input type="password" placeholder="password" name="password" id="myInput" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z])(?=.*\W).{8,}" title="Must contain at least 8 characters, one number and one uppercase and lowercase letter.">
 		</div>
 		<div class="input-group">

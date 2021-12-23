@@ -15,7 +15,7 @@ body {
 	padding-top: 100px;
 	margin-top: 40px;
 	text-align: center;
-	background: url('images/bg4.jpg') fixed;
+	background: url('images/home.jpg') fixed;
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -26,9 +26,9 @@ body {
 	margin: 70px auto 0px;
 	margin-left: 31.5vw;
 	color: white;
-	background: rgb(35, 89, 116);
+	background: rgb(100, 113, 105);
 	text-align: center;
-	border: 1px solid rgb(80, 78, 78);
+	border: 1px solid rgb(100, 113, 105);
 	border-bottom: none;
 	border-radius: 10px 10px 0px 0px;
 	padding: 20px;
@@ -38,8 +38,8 @@ form, .content {
 	margin: auto ;
 	margin-left: 31.5vw;
 	padding: 20px;
-	border: 1px solid rgb(80, 78, 78);
-	background: #bcd9e3;
+	border: 1px solid rgb(100, 113, 105);
+	background: rgb(100, 103, 103);
 	border-radius: 0px 0px 10px 10px;
 }
 
@@ -183,4 +183,8 @@ form, .content {
 }
 
   
+
+.lbl{
+	color: white;
+}
 
